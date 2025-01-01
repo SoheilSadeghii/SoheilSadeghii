@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord Server"><img width="64px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Soh3ilSadeghi"><img width="64px" alt="Telegram" title="Telegram" src="https://img.icons8.com/color/48/telegram-app--v1.png"></a>
+  <a href="https://t.me/Soh3ilSadeghi"><img width="64px" alt="Telegram" title="Telegram" src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </h1>
 
