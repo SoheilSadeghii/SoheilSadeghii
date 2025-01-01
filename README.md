@@ -7,9 +7,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="64px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord Server"><img width="64px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="64px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"></a>
+  <a href="https://t.me/Soh3ilSadeghi"><img width="64px" alt="Telegram" title="Telegram" src="https://img.icons8.com/color/48/telegram-app--v1.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </h1>
 
@@ -38,17 +38,18 @@
 
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
-      <a href="#"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-0077B5?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
       <a href="#"><img alt="Core (.Net)" src="https://img.shields.io/badge/Core-410093?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL Server-C0C0C0.svg?logo=database&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
