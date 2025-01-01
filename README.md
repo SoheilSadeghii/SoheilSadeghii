@@ -16,7 +16,7 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">  
-  <a href="https://github.com/christophnouri?tab=followers">
+  <a href="https://github.com/soheilsadeghii?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SoheilSadeghii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/SoheilSadeghii/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=SoheilSadeghii&labelColor=CD201F&style=for-the-badge&logo=person-add&logoColor=white"/></a>
