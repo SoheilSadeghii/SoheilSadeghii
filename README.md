@@ -1,15 +1,17 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200px"/>
 </div>
+<p align="center">
+  <br>
+    <a href="https://github.com/SoheilSadeghii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4C75A3&center=true&repeat=false&width=435&lines=Soheil+Sadeghi" /></a>
+</p>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=0A66C2&center=true&width=435&lines=Hi+There;Soheil+is+Here;A+Passionate+.NET+Developer!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&width=435&lines=Hi+There+;Soheil+is+Here;A+Passionate+.NET+Developer!"/>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord Server"><img width="64px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Soh3ilSadeghi"><img width="64px" alt="Telegram" title="Telegram" src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000"></a>
+  <a href="https://t.me/Soh3ilSadeghi"><img width="64px" alt="Telegram" title="Telegram" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </h1>
 
@@ -23,11 +25,11 @@
 </p>
 
 <!-- -->
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<details>   
+  <summary><h2><img alt="Toolbox" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp"width="25" height="25"> My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3><img alt="Toolbox" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp"width="25" height="25"> Programming and Markup Languages</h3>
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -36,7 +38,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3><img alt="Freamworks" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp"width="25" height="25"> Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
       <a href="#"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
@@ -52,7 +54,7 @@
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3><img alt="Software" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"width="25" height="25"> Software and Tools</h3>
   <p>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-410093.svg?logo=visual-studio-code&logoColor=white"></a>  
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
@@ -63,9 +65,9 @@
   </p>
 </details>
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2><img alt="Activity" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp"width="25" height="25"> Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3><img alt="Streak" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp"width="25" height="25"> Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/SoheilSadeghii/github-readme-streak-stats">
@@ -74,7 +76,7 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3><img alt="Software" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"width="25" height="25"> GitHub Profile Stats</h3>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SoheilSadeghi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SoheilSadeghii&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SoheilSadeghi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SoheilSadeghii&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
@@ -89,9 +91,9 @@
 </details>
 
 
-### :high_brightness: Stay in touch with me:
-
-
-- 📫 Email: sohel.sadeghi.2003@gmail.com
-- <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" title="LinkedIn" alt="LinkedIn" width="16" height="16" /> LinkedIn: https://www.linkedin.com/in/soheil-sadeghi-529288265/ 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="16" height="16" /> Telegram: https://t.me/Soh3ilSadeghi
+<details>
+  <summary><h2><img alt="Activity" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp"width="25" height="25"> Ways to Contact to me</h2></summary>
+- <img alt="Freamworks" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp"width="25" height="25"> <a href="sohel.sadeghi.2003@gmail.com">Email</a>
+  <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" title="Telegram" alt="Telegram" width="25" height="25" /> <a href="https://t.me/Soh3ilSadeghi">Telegram</a>
+</details>
