@@ -2,12 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200px"/>
 </div>
 <p align="center">
-  <br>
-  <br>
-    <a href="https://github.com/SoheilSadeghii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&weight=200&height=100&pause=1000&color=4C75A3&center=true&repeat=false&width=435&lines=Soheil+Sadeghi" /></a>
+
+  <br>    
+    <a href="https://github.com/SoheilSadeghii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0077B5&center=true&vCenter=true&repeat=false&width=435&lines=Soheil+Sadeghi" alt="Soheil Sadeghi" /></a></a>
 </p>
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&width=300&height=100&lines=Hi+There+;Soheil+is+Here;A+Passionate+.NET+Developer!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&width=500&height=100&lines=Hi+There+;Soheil+is+Here;A+Passionate+.NET+Developer!"/>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
