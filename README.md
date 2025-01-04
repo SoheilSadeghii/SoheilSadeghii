@@ -31,6 +31,8 @@
   
 </h1>
 
+<b>About: </b><p>I started learning about programming at 16 and studied Computer Science. At 18, I began programming and chose to focus on .NET because I liked it a lot. Now, I work at Tabriz Tile Group to learn and grow, not for money<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Double%20Exclamation%20Mark.webp" alt="DoubleExclamationMark" width="25" height="25" /></p>
+
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">  
@@ -108,11 +110,12 @@
 
 
 <details>
-  <summary><h2><img alt="SocialMedia" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"width="25" height="25">Ways to Contact to me</h2></summary>
+  <summary><h2><img alt="SocialMedia" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"width="25" height="25"> Ways to Contact to me</h2></summary>
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn" alt="LinkedIn" width="28" height="28" /> <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/">LinkedIn</a>
     <br>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" title="Telegram" alt="Telegram" width="25" height="25" /> <a href="https://t.me/Soh3ilSadeghi">Telegram</a>
     <br>
-    <img alt="Freamworks" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp"width="25" height="25"> sohel.sadeghi.2003@gmail.com</a>
-  
+    <img alt="Freamworks" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp"width="25" height="25"> sohel.sadeghi.2003@gmail.com</a>  
 </details>
+
+<div><h1>Thank you very much for visiting my profile <img alt="RedHeart" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp"width="36" height="36"></h1></div>
