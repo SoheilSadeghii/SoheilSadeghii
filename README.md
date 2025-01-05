@@ -19,14 +19,14 @@
 </p>
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="VisualStudio" alt="VisualStudio" width="64" height="64" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="130" height="64" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="GitHub" alt="GitHub" width="64" height="64" />
-  <img src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" title="C#" alt="C#" width="64" height="64" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4ODgyMjMsIm5iZiI6MTczNTg4NzkyMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAzVDA3MDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMDA5NGNiMTAzOGY5ZDc1Njg0OGZkOTMzNmVhZjY2MTI1YzMzM2E1MWQ4MTg0NTgzOWZhMDU4YTY5OTVmYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eAJJ3yGQm0XpF-mpLD8amImq6QuZM8BAYc0nKIoDHMU" title="HTML" alt="HTML" width="64" height="64" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4ODgyMjMsIm5iZiI6MTczNTg4NzkyMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAzVDA3MDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4NWUwODA5YzQ1Y2VjMjFlYjczZGEyODgzNWU4NDVlZDBlNDJlZTY1YmY3ODcxYmE1ODVkODk4MzY2YmVmMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eQd2YI3X9BG6x81s7m5BoBIKH0w8ytb31vx2lwBQJZc" title="CSS" alt="CSS" width="64" height="64" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JS" alt="JS" width="64" height="64" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="BS" alt="BS" width="64" height="64" />
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="VisualStudio" alt="VisualStudio" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="130" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="GitHub" alt="GitHub" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" title="C#" alt="C#" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4ODgyMjMsIm5iZiI6MTczNTg4NzkyMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAzVDA3MDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMDA5NGNiMTAzOGY5ZDc1Njg0OGZkOTMzNmVhZjY2MTI1YzMzM2E1MWQ4MTg0NTgzOWZhMDU4YTY5OTVmYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eAJJ3yGQm0XpF-mpLD8amImq6QuZM8BAYc0nKIoDHMU" title="HTML" alt="HTML" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4ODgyMjMsIm5iZiI6MTczNTg4NzkyMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAzVDA3MDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4NWUwODA5YzQ1Y2VjMjFlYjczZGEyODgzNWU4NDVlZDBlNDJlZTY1YmY3ODcxYmE1ODVkODk4MzY2YmVmMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eQd2YI3X9BG6x81s7m5BoBIKH0w8ytb31vx2lwBQJZc" title="CSS" alt="CSS" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JS" alt="JS" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="BS" alt="BS" width="64" height="64" /></a>
 </p>
   
 </h1>
@@ -49,37 +49,37 @@
 
   <h3><img alt="Toolbox" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp"width="25" height="25"> Programming and Markup Languages</h3>
   <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3><img alt="Freamworks" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp"width="25" height="25"> Frameworks and Libraries</h3>
   <p>
-      <a href="#"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="Core (.Net)" src="https://img.shields.io/badge/Core-410093?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Core (.Net)" src="https://img.shields.io/badge/Core-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL Server-C0C0C0.svg?logo=database&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL Server-C0C0C0.svg?logo=database&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h3><img alt="Software" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"width="25" height="25"> Software and Tools</h3>
   <p>
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-410093.svg?logo=visual-studio-code&logoColor=white"></a>  
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>      
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-410093.svg?logo=visual-studio-code&logoColor=white"></a>  
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>      
   </p>
 </details>
 <details> 
