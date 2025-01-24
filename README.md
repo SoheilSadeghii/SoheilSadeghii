@@ -1,20 +1,24 @@
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="205px"/></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="205px"/></a>
 </div>
 <p align="center">
 
   <br>    
-    <a href="https://github.com/SoheilSadeghii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0077B5&center=true&vCenter=true&repeat=false&width=435&lines=Soheil+Sadeghi" alt="Soheil Sadeghi" /></a></a>
+    <a href="https://github.com/SoheilSadeghii">      
+          <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>      
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=673AB7&center=true&vCenter=true&repeat=false&width=435&lines=Soheil+Sadeghi" alt="Soheil Sadeghi" />
+          <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>  
+    </a>
 </p>
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&width=500&height=100&lines=Hi+There+;Soheil+is+Here;A+Passionate+.NET+Developer!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9575CD&center=true&width=500&height=100&lines=Hi+There+;Soheil+is+Here;A+Passionate+.NET+Developer!"/>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Soh3ilSadeghi"><img width="64px" alt="Telegram" title="Telegram" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="64px" alt="Discord" title="Discord" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"></a>
+  <a href="https://www.instagram.com/soh3ilsadeghi/"><img width="64px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
   
@@ -23,8 +27,6 @@
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="130" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="GitHub" alt="GitHub" width="64" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" title="C#" alt="C#" width="64" height="64" /></a>
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4ODgyMjMsIm5iZiI6MTczNTg4NzkyMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAzVDA3MDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMDA5NGNiMTAzOGY5ZDc1Njg0OGZkOTMzNmVhZjY2MTI1YzMzM2E1MWQ4MTg0NTgzOWZhMDU4YTY5OTVmYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eAJJ3yGQm0XpF-mpLD8amImq6QuZM8BAYc0nKIoDHMU" title="HTML" alt="HTML" width="64" height="64" /></a>
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4ODgyMjMsIm5iZiI6MTczNTg4NzkyMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAzVDA3MDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4NWUwODA5YzQ1Y2VjMjFlYjczZGEyODgzNWU4NDVlZDBlNDJlZTY1YmY3ODcxYmE1ODVkODk4MzY2YmVmMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eQd2YI3X9BG6x81s7m5BoBIKH0w8ytb31vx2lwBQJZc" title="CSS" alt="CSS" width="64" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JS" alt="JS" width="64" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="BS" alt="BS" width="64" height="64" /></a>
 </p>
