@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="VisualStudio" alt="VisualStudio" width="64" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="130" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="GitHub" alt="GitHub" width="64" height="64" /></a>
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" title="C#" alt="C#" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" title="C#" alt="C#" width="75" height="75" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JS" alt="JS" width="64" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="BS" alt="BS" width="64" height="64" /></a>
 </p>
