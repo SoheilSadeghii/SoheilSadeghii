@@ -5,16 +5,21 @@
 </div>
 <p align="center">
 
-  <br>    
+  <br>   
+  <!--
     <a href="https://github.com/SoheilSadeghii">      
           <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>      
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=673AB7&center=true&vCenter=true&repeat=false&width=435&lines=Soheil+Sadeghi" alt="Soheil Sadeghi" />
           <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>  
     </a>
+     -->
 </p>
 <h1 align="center">
+  <!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9575CD&center=true&width=500&height=100&lines=Hi+There+;Soheil+is+Here;A+Passionate+.NET+Developer!"/>
+   -->
 <!-- Social icons section -->
+  <!--
 <p align="center">
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -23,7 +28,7 @@
   <a href="https://www.instagram.com/soh3ilsadeghi/"><img width="64px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-  
+   -->
 <p align="center">
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="VisualStudio" alt="VisualStudio" width="64" height="64" /></a>
   <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="130" height="64" /></a>
