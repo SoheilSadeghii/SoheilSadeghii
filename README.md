@@ -94,32 +94,33 @@
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
   </p>
 </details>
-<details> 
+
+<!--<details> 
   <summary><h2><img alt="Activity" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp"width="25" height="25"> Stats and Activity</h2></summary>
 
   <h3><img alt="Streak" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp"width="25" height="25"> Streak Stats</h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  
   <p>
     <a href="https://github.com/SoheilSadeghii/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=SoheilSadeghii&theme=synthwave&hide_border=true&short_numbers=true"/>
     </a>
   </p>
 
   <h3><img alt="Software" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"width="25" height="25"> GitHub Profile Stats</h3>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SoheilSadeghi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SoheilSadeghii&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SoheilSadeghi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SoheilSadeghii&langs_count=8&layout=compact&theme=synthwave&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
   <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SoheilSadeghi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SoheilSadeghii&theme=synthwave&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
+-->
 <details>
   <summary><h2><img alt="SocialMedia" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"width="25" height="25"> Ways to Contact to me</h2></summary>
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn" alt="LinkedIn" width="28" height="28" /> <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/">LinkedIn</a>
