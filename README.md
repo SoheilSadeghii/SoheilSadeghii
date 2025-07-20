@@ -130,4 +130,4 @@
     <img alt="Freamworks" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp"width="25" height="25"> sohel.sadeghi.2003@gmail.com</a>  
 </details>
 
-<div><h1>Thank you very much for visiting my profile <img alt="RedHeart" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp"width="36" height="36"></h1></div>
+<div><h1>Thank you for visiting my profile <img alt="RedHeart" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp"width="36" height="36"></h1></div>
