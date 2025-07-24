@@ -41,7 +41,7 @@
   
 </h1>
 
-<b>About: </b><p>I started learning about programming at 16 and studied Computer Science. At 18, I began programming and chose to focus on .NET because I liked it a lot. Now, I work at Tabriz Tile Group to learn and grow, not for money<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Double%20Exclamation%20Mark.webp" alt="DoubleExclamationMark" width="25" height="25" /></p>
+<!-- <b>About: </b><p>I started learning about programming at 16 and studied Computer Science. At 18, I began programming and chose to focus on .NET because I liked it a lot. Now, I work at Tabriz Tile Group to learn and grow, not for money<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Double%20Exclamation%20Mark.webp" alt="DoubleExclamationMark" width="25" height="25" /></p> -->
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
