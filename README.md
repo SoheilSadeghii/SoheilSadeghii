@@ -73,6 +73,7 @@
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Core (.Net)" src="https://img.shields.io/badge/Core-410093?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
   </p>
