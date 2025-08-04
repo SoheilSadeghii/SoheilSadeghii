@@ -73,7 +73,8 @@
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Core (.Net)" src="https://img.shields.io/badge/Core-410093?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
   </p>
@@ -82,7 +83,7 @@
   <p>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL Server-C0C0C0.svg?logo=database&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h3><img alt="Software" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"width="25" height="25"> Software and Tools</h3>
