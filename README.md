@@ -76,6 +76,7 @@
       <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
   </p>
 
