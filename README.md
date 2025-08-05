@@ -1,16 +1,16 @@
 
 
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="205px"/></a>
+  <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="205px"/></a>
 </div>
 <p align="center">
 
   <br>   
   <!--
     <a href="https://github.com/SoheilSadeghii">      
-          <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>      
+          <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>      
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=673AB7&center=true&vCenter=true&repeat=false&width=435&lines=Soheil+Sadeghi" alt="Soheil Sadeghi" />
-          <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>  
+          <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="55px"/></a>  
     </a>
      -->
 </p>
@@ -21,7 +21,7 @@
 <!-- Social icons section -->
   <!--
 <p align="center">
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
+  <a href="https://www.linkedin.com/in/soheilsadeghii/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Soh3ilSadeghi"><img width="64px" alt="Telegram" title="Telegram" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,13 +30,13 @@
 </p>
    -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="VisualStudio" alt="VisualStudio" width="64" height="64" /></a>
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="130" height="64" /></a>
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" title="C#" alt="C#" width="75" height="75" /></a>
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="GitHub" alt="GitHub" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="VisualStudio" alt="VisualStudio" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="130" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" title="C#" alt="C#" width="75" height="75" /></a>
+  <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="GitHub" alt="GitHub" width="64" height="64" /></a>
   
-  <!--<a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JS" alt="JS" width="64" height="64" /></a>
-  <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="BS" alt="BS" width="64" height="64" /></a>-->
+  <!--<a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JS" alt="JS" width="64" height="64" /></a>
+  <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="BS" alt="BS" width="64" height="64" /></a>-->
 </p>
   
 </h1>
@@ -60,42 +60,42 @@
 
   <h3><img alt="Toolbox" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp"width="25" height="25"> Programming and Markup Languages</h3>
   <p>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   </p>
 
   <h3><img alt="Freamworks" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp"width="25" height="25"> Frameworks and Libraries</h3>
   <p>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Core (.Net)" src="https://img.shields.io/badge/Core-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Freamwork (.Net)" src="https://img.shields.io/badge/Freamwork-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="ASP.Net MVC (.Net)" src="https://img.shields.io/badge/ASP.Net MVC-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Core (.Net)" src="https://img.shields.io/badge/Core-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-410093?logo=.net&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>     
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL Server-C0C0C0.svg?logo=database&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL Server-C0C0C0.svg?logo=database&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h3><img alt="Software" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"width="25" height="25"> Software and Tools</h3>
   <p>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-410093.svg?logo=visual-studio-code&logoColor=white"></a>  
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-410093.svg?logo=visual-studio-code&logoColor=white"></a>  
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>  
-      <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>  
+      <a href="https://www.linkedin.com/in/soheilsadeghii/"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
   </p>
 </details>
 
@@ -127,7 +127,7 @@
 -->
 <details>
   <summary><h2><img alt="SocialMedia" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"width="25" height="25"> Ways to Contact to me</h2></summary>
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn" alt="LinkedIn" width="28" height="28" /> <a href="https://www.linkedin.com/in/soheil-sadeghi-529288265/">LinkedIn</a>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn" alt="LinkedIn" width="28" height="28" /> <a href="https://www.linkedin.com/in/soheilsadeghii/">LinkedIn</a>
     <br>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" title="Telegram" alt="Telegram" width="25" height="25" /> <a href="https://t.me/Soh3ilSadeghi">Telegram</a>
     <br>
